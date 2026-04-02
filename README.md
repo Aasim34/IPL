@@ -1,4 +1,4 @@
-# IPL ML Project
+ # IPL ML Project
 
 End-to-end machine learning project to predict IPL match winners from pre-match information.
 
@@ -46,7 +46,7 @@ GET http://localhost:8000/health
 Prediction endpoint:
 
 ```bash
-POST http://localhost:8000/predict
+ POST http://localhost:8000/predict
 Content-Type: application/json
 
 {
